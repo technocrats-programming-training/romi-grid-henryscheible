@@ -27,6 +27,6 @@ public class Position {
     }
 
     public String toString() {
-        return "";
+        return "(0, 0)";
     }
 }
